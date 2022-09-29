@@ -1,6 +1,6 @@
 package jti.polinema.ac.id.a04androidrecyclerview;
 
-public class MahasiswaLakiLaki {
+public class Mahasiswa {
 
     private String name;
     private String absen;
